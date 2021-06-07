@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div#chatbox{
+    height: 200px;
+    max-height: 200px;
+}
